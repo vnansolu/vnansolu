@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Fernando
+# Olá! 👋 Me chamo Fernando 🐓 
 
 ### Software Developer | Backend | APIs | IA & Automação
 
