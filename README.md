@@ -81,8 +81,7 @@ Atuação no desenvolvimento e manutenção de uma plataforma voltada à **autom
 
 ## 📫 Entre em contato
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/fervela7/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fervela7/)
 
 ---
 
