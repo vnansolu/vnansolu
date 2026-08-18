@@ -69,16 +69,6 @@ Atuação no desenvolvimento e manutenção de uma plataforma voltada à **autom
 
 ---
 
-## 📚 Atualmente estudando
-
-🤖 Inteligência Artificial
-🧠 Generative AI e LLMs
-⚙️ Automação de processos
-🏗️ Arquitetura e desenvolvimento de software
-🔌 Integrações e APIs
-
----
-
 ## 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fervela7/)
